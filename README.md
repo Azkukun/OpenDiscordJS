@@ -8,9 +8,9 @@ OpenDiscordJS is a plugin for a basic and simple JS. The first official version 
 
 # New ! 
 (FR) Une ancienne version de OpenDiscordJs (SimpleJs) est là !
-C'est la Cookie 0.0.1 
-
-Difficulté 1, Grande Docs 4, SimpleJavaScript Version Cookie ^0.0.1
+C'est la Cookie 0.0.1 !
+___________________________
+Cookie 0.0.1
 =========
 By Azkun and meniro
 
