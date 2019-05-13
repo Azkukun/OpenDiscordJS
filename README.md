@@ -4,7 +4,7 @@ OpenDiscordJS is a plugin for a basic and simple JS. The first official version 
 
 # FrenchAcacia 1.2.4
 
-The French Acacia is in dev'.
+The French Acacia is in dev'. But the Project is now here : 2s PLEASE
 
 # EnglishAcacia 1.2.4
 The English acacia is found ! But... The translate is bad... In dev':3
